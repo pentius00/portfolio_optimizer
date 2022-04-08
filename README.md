@@ -3,7 +3,7 @@ Portfolio analyzer
 
 
 
-##Project 2 Miami Fintech Bootcamp
+##Miami Fintech Bootcamp
 Portafolio analizer, in this project we want to be able to add our personal portafolio, stocks or cyptos.
 the analysis gives you and inside of the healt of your portafolio, on s short term and long term.
 we analyze the RISK in the portafolio as well as POSIBLE_GROWTH, and the sentiment analisis of you stock or crypto .
@@ -12,14 +12,15 @@ You may be using [what is a porfolio](https://study.com/academy/lesson/portfolio
 
 ### Step 1: define your portafolio, enter the names, the amount and the prices, also added som logit to add more than onecoin or stock
 ### Step 2: gatter data from different api's, clean and prep the data
-### Step 3: prep data for the first risk analysis(sharp, sortino, cummulative return, annual volatility)
+### Step 3: prep data for the first risk analysis(sharp, cummulative return, annual volatility)
 ### Step 4: create function for the analyzer.
 ### Step 5: prep data for `
-### Step 6: create fuction scrape data from twitter and news sites, and gives you a inside on sentiment around your asset.
-### Step 7: prep data for MC forecastion and get the mean of the predicionm
-### Step 8: enter montecarlo data into an non_surpervised model (LSTM) to get a better understanding of the posible future of the asset
-### Step 9: give a sumary of the healt of the portafolio.
-### Step 10: if times permits deploy into sageMaker
+### Step 6: create fuction scrape data from news sites, and gives you a inside on sentiment around your asset.
+### Step 7:create a efficient frontier with 1000 portfolio and look for the best sharp ratio
+### Step 8: re allocate weights
+### Step 9: create a vader anayisis of the news
+## Step 1o: create a word cloud for the 10 most comun words.
+### Step 11: if times permits deploy into sageMaker
 
 
 ![](https://www.i1.creditdonkey.com/image/1/1200c/best-portfolio-analyzers.jpg)
