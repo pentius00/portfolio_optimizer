@@ -5,7 +5,7 @@ Portfolio analyzer
 
 ##Miami Fintech Bootcamp
 Portafolio analizer, in this project we want to be able to add our personal portafolio, stocks or cyptos.
-the analysis gives you and inside of the healt of your portafolio, on s short term and long term.
+the analysis gives you and inside of the healt of your portafolio, on short term and long term.
 we analyze the RISK in the portafolio as well as POSIBLE_GROWTH, and the sentiment analisis of you stock or crypto .
 
 You may be using [what is a porfolio](https://study.com/academy/lesson/portfolio-weight-return-variance-definition-examples.html).
@@ -60,7 +60,7 @@ _CASE_ : Consider now two portfolios:
 * Portfolio B : An equal-weighted portfolio
 
 ![](https://cdn.educba.com/academy/wp-content/uploads/2020/12/Portfolio-Optimization.jpg)
-
+You may be using [Efficient_Fronties](https://pyportfolioopt.readthedocs.io/en/latest/UserGuide.html).
 ifferent approaches to portfolio optimization measure risk differently. In addition to the traditional measure, standard deviation, or its square (variance), which are not robust risk measures, other measures include the Sortino ratio, CVaR (Conditional Value at Risk), and statistical dispersion.
 
 Investment is a forward-looking activity, and thus the covariances of returns must be forecast rather than observed.
